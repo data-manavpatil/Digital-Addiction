@@ -42,6 +42,6 @@ The project aims to deliver actionable insights into digital addiction, contribu
 ## Installation
 To run this project, clone the repository and install the required dependencies:
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/data-manavpatil/Digital-Addiction.git)
 cd digital-addiction
 pip install -r requirements.txt
